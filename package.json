@@ -1,9 +1,9 @@
 {
-  "name": "dedash-ui",
+  "name": "barebone-react-starter",
   "version": "1.0.0",
-  "description": "Dedash Dashboard React UI",
+  "description": "Barebone React Starter Kit",
   "main": "app.js",
-  "repository": "https://github.com/boopathit/dedash",
+  "repository": "https://github.com/boopathit/barebone-react-starter",
   "author": "Boopathi T",
   "license": "MIT",
   "scripts": {

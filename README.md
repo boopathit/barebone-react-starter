@@ -1,2 +1,2 @@
 # barebone-react-starter
-React Application with just Webpack and Babel.
+React Application with just Webpack, Webpack Dev Server and Babel.
